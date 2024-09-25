@@ -12,7 +12,6 @@ tutorial for dumemo
 
 2.  installer firewall
     skriv in disse commandene in i commandprompt
-    '''command
+    '''
     sudo apt install ufw
-
     '''
