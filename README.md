@@ -28,7 +28,6 @@ tutorial for dumemo
 
     sudo apt upgrade
     ```
-x
 
 
 3.  installer firewall
@@ -91,4 +90,10 @@ x
     FLUSH PRIVILEGES;
     ```
 
-7. 
+
+# Oppset av github
+
+1.  lag en githubkonto
+
+    go to github.com or click [here](https://github.com) and make a new account or log in
+
