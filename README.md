@@ -21,7 +21,7 @@ tutorial for dumemo
     do all the nesessary ubuntu installations
 
 
-2.  update everything in your commandprompt (ctrl + alt + T)
+2.  update everything in your commandprompt ("ctrl + alt + T" to open cmd)
 
     ```
     sudo apt update
@@ -89,11 +89,3 @@ tutorial for dumemo
     ```
     FLUSH PRIVILEGES;
     ```
-
-
-# Oppset av github
-
-1.  lag en githubkonto
-
-    go to github.com or click [here](https://github.com) and make a new account or log in
-
